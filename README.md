@@ -1,9 +1,22 @@
 # lbapi_test
+## Installation 
+*[Nodejs](https://nodejs.org/en/download/)
+*[Python3](https://www.python.org/downloads/)
+*[Loopback](https://loopback.io/doc/en/lb4/Getting-started.html)
 
 ## Loopback 4 example 
 
-## Api
+```
+# From the root directory, run the following commands 
+cd api_demo 
+npm install
+npm start
+```
+Just open the web using 
+[api_demo]http://localhost:3000
 
-### Ping 
-
-### Hellp 
+## Python example for client to access the api 
+```
+cd Python
+python test.py 
+```
