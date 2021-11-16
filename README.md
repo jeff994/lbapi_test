@@ -1,4 +1,8 @@
 # lbapi_test
+
+## Description
+The project is to demo how to define REST api with loopback
+
 ## Installation 
 The installation required to run the demo 
 * [Nodejs](https://nodejs.org/en/download/)
@@ -14,7 +18,7 @@ npm install
 npm start
 ```
 
-After everything is running, you can open the web using 
+After everything is running, the api web site can run with the following 
 [api_demo](http://localhost:3000)
 
 ## Python example for client to access the api 
