@@ -2,7 +2,7 @@
 ## Installation 
 * [Nodejs](https://nodejs.org/en/download/)
 * [Python3](https://www.python.org/downloads/)
-* [Loopback](https://loopback.io/doc/en/lb4/Getting-started.html)
+* [Loopback4](https://loopback.io/doc/en/lb4/Getting-started.html)
 
 ## Loopback 4 example 
 
