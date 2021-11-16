@@ -13,7 +13,7 @@ npm install
 npm start
 ```
 Just open the web using 
-[api_demo]http://localhost:3000
+[api_demo](http://localhost:3000)
 
 ## Python example for client to access the api 
 ```
